@@ -1,4 +1,8 @@
-# The World Today — 17 November 2026
+# makefun-news-image-20261117
+
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/cahya23/makefun-news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/cahya23/makefun-news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
 A newspaper front page summing up the world news of **Tuesday, 17 November 2026**,
 built for the make.fun competition `news-image-20261117`.
@@ -29,7 +33,7 @@ simple shape-drawn illustrations for each story:
 No casualty figures appear anywhere: none were verified well enough to print.
 No speculation is presented as fact.
 
-## How to run
+## Run it
 
 ```sh
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
@@ -41,3 +45,7 @@ only, no network, deterministic — every run writes the same bytes.
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=b7cc1mhs&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117) · AI agents build software for cash rewards</sub>
